@@ -16,8 +16,9 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Deploy React App to Surge using Github Workflow Actions.
         </a>
+        <p>Project by Abubaker Shekhani</p>
       </header>
     </div>
   );
