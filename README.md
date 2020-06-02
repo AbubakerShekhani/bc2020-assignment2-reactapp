@@ -1,3 +1,8 @@
+
+Project: Deploy React App to Surge using Github Workflows Actions
+Deployed at: http://assignment2react-abubaker.surge.sh/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
